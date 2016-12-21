@@ -1,0 +1,3 @@
+{
+  "7chan.org": ["http(s){0,1}://7chan.org/([a-zA-Z0-9]){1,}/res/([0-9]){1,}.html"]
+}
